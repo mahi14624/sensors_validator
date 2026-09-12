@@ -25,7 +25,8 @@ setup(
     entry_points={
         'console_scripts': [ "ultrasonic_node = multi_sensor_validator.ultrasonic_node:main",
                              "infrared_node = multi_sensor_validator.infrared_node:main",
-                             "validator_node = multi_sensor_validator.validator_node:main"
+                             "validator_node = multi_sensor_validator.validator_node:main",
+                             "logger_node = multi_sensor_validator.logger_node:main"
         ],
     },
 )

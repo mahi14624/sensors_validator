@@ -10,6 +10,7 @@ setup.py
 ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/zip-safe
 multi_sensor_validator/__init__.py
 multi_sensor_validator/infrared_node.py
+multi_sensor_validator/logger_node.py
 multi_sensor_validator/sensors.py
 multi_sensor_validator/ultrasonic_node.py
 multi_sensor_validator/validator.py

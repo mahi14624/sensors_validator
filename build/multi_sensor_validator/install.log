@@ -1,11 +1,13 @@
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/ultrasonic_node.py
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/__init__.py
+/home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/logger_node.py
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/validator.py
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/validator_node.py
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/sensors.py
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/infrared_node.py
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/__pycache__/ultrasonic_node.cpython-310.pyc
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/__pycache__/__init__.cpython-310.pyc
+/home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/__pycache__/logger_node.cpython-310.pyc
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/__pycache__/validator.cpython-310.pyc
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/__pycache__/validator_node.cpython-310.pyc
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/__pycache__/sensors.cpython-310.pyc
@@ -20,5 +22,6 @@
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator-0.0.0-py3.10.egg-info/entry_points.txt
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator-0.0.0-py3.10.egg-info/SOURCES.txt
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator/infrared_node
+/home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator/logger_node
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator/ultrasonic_node
 /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator/validator_node
