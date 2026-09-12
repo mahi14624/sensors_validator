@@ -1,0 +1,49 @@
+running egg_info
+creating ../../build/multi_sensor_validator/multi_sensor_validator.egg-info
+writing ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/PKG-INFO
+writing dependency_links to ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/dependency_links.txt
+writing entry points to ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/entry_points.txt
+writing requirements to ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/requires.txt
+writing top-level names to ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/top_level.txt
+writing manifest file '../../build/multi_sensor_validator/multi_sensor_validator.egg-info/SOURCES.txt'
+reading manifest file '../../build/multi_sensor_validator/multi_sensor_validator.egg-info/SOURCES.txt'
+writing manifest file '../../build/multi_sensor_validator/multi_sensor_validator.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mahinour/multi_sensor/build/multi_sensor_validator/build
+creating /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib
+creating /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator
+copying multi_sensor_validator/ultrasonic_node.py -> /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator
+copying multi_sensor_validator/__init__.py -> /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator
+copying multi_sensor_validator/validator.py -> /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator
+copying multi_sensor_validator/validator_node.py -> /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator
+copying multi_sensor_validator/sensors.py -> /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator
+copying multi_sensor_validator/infrared_node.py -> /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator
+running install
+running install_lib
+creating /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator
+copying /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator/ultrasonic_node.py -> /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator
+copying /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator/__init__.py -> /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator
+copying /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator/validator.py -> /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator
+copying /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator/validator_node.py -> /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator
+copying /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator/sensors.py -> /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator
+copying /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator/infrared_node.py -> /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator
+byte-compiling /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/ultrasonic_node.py to ultrasonic_node.cpython-310.pyc
+byte-compiling /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/validator.py to validator.cpython-310.pyc
+byte-compiling /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/validator_node.py to validator_node.cpython-310.pyc
+byte-compiling /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/sensors.py to sensors.cpython-310.pyc
+byte-compiling /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/infrared_node.py to infrared_node.cpython-310.pyc
+running install_data
+creating /home/mahinour/multi_sensor/install/multi_sensor_validator/share/ament_index
+creating /home/mahinour/multi_sensor/install/multi_sensor_validator/share/ament_index/resource_index
+creating /home/mahinour/multi_sensor/install/multi_sensor_validator/share/ament_index/resource_index/packages
+copying resource/multi_sensor_validator -> /home/mahinour/multi_sensor/install/multi_sensor_validator/share/ament_index/resource_index/packages
+copying package.xml -> /home/mahinour/multi_sensor/install/multi_sensor_validator/share/multi_sensor_validator
+running install_egg_info
+Copying ../../build/multi_sensor_validator/multi_sensor_validator.egg-info to /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator-0.0.0-py3.10.egg-info
+running install_scripts
+Installing infrared_node script to /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator
+Installing ultrasonic_node script to /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator
+Installing validator_node script to /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator
+writing list of installed files to '/home/mahinour/multi_sensor/build/multi_sensor_validator/install.log'

@@ -1,0 +1,26 @@
+[0.572s] Invoking command in '/home/mahinour/multi_sensor/src/multi_sensor_validator': PYTHONPATH=/home/mahinour/multi_sensor/build/multi_sensor_validator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/multi_sensor_validator build --build-base /home/mahinour/multi_sensor/build/multi_sensor_validator/build install --record /home/mahinour/multi_sensor/build/multi_sensor_validator/install.log --install-scripts $base/lib/multi_sensor_validator --single-version-externally-managed install_data
+[0.725s] running egg_info
+[0.725s] writing ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/PKG-INFO
+[0.726s] writing dependency_links to ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/dependency_links.txt
+[0.726s] writing entry points to ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/entry_points.txt
+[0.726s] writing requirements to ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/requires.txt
+[0.726s] writing top-level names to ../../build/multi_sensor_validator/multi_sensor_validator.egg-info/top_level.txt
+[0.727s] reading manifest file '../../build/multi_sensor_validator/multi_sensor_validator.egg-info/SOURCES.txt'
+[0.728s] writing manifest file '../../build/multi_sensor_validator/multi_sensor_validator.egg-info/SOURCES.txt'
+[0.728s] running build
+[0.728s] running build_py
+[0.728s] copying multi_sensor_validator/sensors.py -> /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator
+[0.729s] running install
+[0.729s] running install_lib
+[0.730s] copying /home/mahinour/multi_sensor/build/multi_sensor_validator/build/lib/multi_sensor_validator/sensors.py -> /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator
+[0.730s] byte-compiling /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator/sensors.py to sensors.cpython-310.pyc
+[0.731s] running install_data
+[0.731s] running install_egg_info
+[0.732s] removing '/home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator-0.0.0-py3.10.egg-info' (and everything under it)
+[0.732s] Copying ../../build/multi_sensor_validator/multi_sensor_validator.egg-info to /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages/multi_sensor_validator-0.0.0-py3.10.egg-info
+[0.734s] running install_scripts
+[0.750s] Installing infrared_node script to /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator
+[0.750s] Installing ultrasonic_node script to /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator
+[0.750s] Installing validator_node script to /home/mahinour/multi_sensor/install/multi_sensor_validator/lib/multi_sensor_validator
+[0.750s] writing list of installed files to '/home/mahinour/multi_sensor/build/multi_sensor_validator/install.log'
+[0.770s] Invoked command in '/home/mahinour/multi_sensor/src/multi_sensor_validator' returned '0': PYTHONPATH=/home/mahinour/multi_sensor/build/multi_sensor_validator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahinour/multi_sensor/install/multi_sensor_validator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/multi_sensor_validator build --build-base /home/mahinour/multi_sensor/build/multi_sensor_validator/build install --record /home/mahinour/multi_sensor/build/multi_sensor_validator/install.log --install-scripts $base/lib/multi_sensor_validator --single-version-externally-managed install_data
